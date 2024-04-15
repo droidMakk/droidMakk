@@ -45,10 +45,6 @@ A Few Significant systems I’ve built,
 
 👀 I’m interested Taking up side projects, contributions if required to open source. 
 
-<br/>
-
-💞️ I’m looking to collaborate on podcast, dev talk shows to share my experience
-
 
 <!---
 droidMakk/droidMakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
